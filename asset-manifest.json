@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/Profile/static/css/main.44664c78.chunk.css",
+    "main.js": "/Profile/static/js/main.1a9018b7.chunk.js",
+    "main.js.map": "/Profile/static/js/main.1a9018b7.chunk.js.map",
+    "runtime-main.js": "/Profile/static/js/runtime-main.a07762e5.js",
+    "runtime-main.js.map": "/Profile/static/js/runtime-main.a07762e5.js.map",
+    "static/css/2.eb66b564.chunk.css": "/Profile/static/css/2.eb66b564.chunk.css",
+    "static/js/2.1539e5c0.chunk.js": "/Profile/static/js/2.1539e5c0.chunk.js",
+    "static/js/2.1539e5c0.chunk.js.map": "/Profile/static/js/2.1539e5c0.chunk.js.map",
+    "static/js/3.5713321c.chunk.js": "/Profile/static/js/3.5713321c.chunk.js",
+    "static/js/3.5713321c.chunk.js.map": "/Profile/static/js/3.5713321c.chunk.js.map",
+    "index.html": "/Profile/index.html",
+    "static/css/2.eb66b564.chunk.css.map": "/Profile/static/css/2.eb66b564.chunk.css.map",
+    "static/css/main.44664c78.chunk.css.map": "/Profile/static/css/main.44664c78.chunk.css.map",
+    "static/js/2.1539e5c0.chunk.js.LICENSE.txt": "/Profile/static/js/2.1539e5c0.chunk.js.LICENSE.txt",
+    "static/media/mdb-free.scss": "/Profile/static/media/arrow_right.0897f985.svg",
+    "static/media/concentrix.77909fd2.jpg": "/Profile/static/media/concentrix.77909fd2.jpg",
+    "static/media/all.min.css": "/Profile/static/media/fa-solid-900.46fdbd2d.woff",
+    "static/media/ml_help2.4c7f8ca2.PNG": "/Profile/static/media/ml_help2.4c7f8ca2.PNG",
+    "static/media/ml_help3.c93c57b1.PNG": "/Profile/static/media/ml_help3.c93c57b1.PNG",
+    "static/media/ml_wallet1.d185596b.jpg": "/Profile/static/media/ml_wallet1.d185596b.jpg",
+    "static/media/ml_wallet2.42da9a81.jpg": "/Profile/static/media/ml_wallet2.42da9a81.jpg",
+    "static/media/ml_wallet3.56cc67c8.jpg": "/Profile/static/media/ml_wallet3.56cc67c8.jpg",
+    "static/media/mypic.1e8379ac.jpg": "/Profile/static/media/mypic.1e8379ac.jpg",
+    "static/media/wallpaper.2d6fde4d.jpg": "/Profile/static/media/wallpaper.2d6fde4d.jpg",
+    "static/media/weadvocacy1.5e803b28.PNG": "/Profile/static/media/weadvocacy1.5e803b28.PNG",
+    "static/media/weadvocacy2.2f3dd057.PNG": "/Profile/static/media/weadvocacy2.2f3dd057.PNG",
+    "static/media/weadvocacy3.b050585c.PNG": "/Profile/static/media/weadvocacy3.b050585c.PNG",
+    "static/media/website-banner4.5a591bfb.png": "/Profile/static/media/website-banner4.5a591bfb.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a07762e5.js",
+    "static/css/2.eb66b564.chunk.css",
+    "static/js/2.1539e5c0.chunk.js",
+    "static/css/main.44664c78.chunk.css",
+    "static/js/main.1a9018b7.chunk.js"
+  ]
+}
