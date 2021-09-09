@@ -1,0 +1,212 @@
+// Your custom styles
+.work-bg {
+    background-color: $workExperience;
+}
+.languages-bg {
+    background-color: $languagesKnown;
+}
+.container-fluid{
+    padding:0!important;
+}
+.navbar {
+    box-shadow:none !important;
+}
+.custom-div-jb-header{
+    padding-top:100px !important
+}
+.custom-div-jb{
+    border: 1px solid rgba(238,238,238,0.2);
+    border-radius: 1.5rem;
+    background-color: $secondary-color;
+}
+.custom-div{
+    background: $secondary-color;
+    padding:0 !important;
+}
+h2{
+    color:$white;
+}
+input, textarea{
+    font-size: large !important;
+}
+.jumbotron{
+    background-color: $secondary-color !important;
+    border-radius: 0 !important;
+    margin-bottom: 0 !important;
+}
+.custom-btn:hover{
+    color:#FFF !important;
+}
+
+.custom-btn{
+    background-color:$component-color !important;
+}
+.custom-fab{
+    padding:10px;
+}
+
+.btn{
+    text-transform:none !important;
+    border-radius:1.5rem !important;
+}
+
+.custom-img{
+    border-radius: 50%;
+    border: 5px solid $component-color;
+    width:200px;
+    max-width:50%;
+}
+.custom-modal-btn{
+    width:50% !important;
+    color:$secondary-color !important;
+}
+.company-img{
+    text-align: center;
+}
+
+hr{
+    background-color:rgba(255,255,255,0.50) !important;
+}
+
+p{
+    color:$white;
+}
+
+.custom-react-icon{
+    color:#1DA1F2;
+    animation-name: spin;
+    animation-duration: 5000ms;
+    animation-iteration-count: infinite;
+    animation-timing-function: linear; 
+}
+@keyframes spin {
+    from {
+        transform:rotate(0deg);
+    }
+    to {
+        transform:rotate(360deg);
+    }
+}
+
+
+.custom-fab-fb:hover{
+    color:#3B5998;
+    cursor:pointer;
+}
+
+.custom-fab-twitter:hover{
+    color:#1DA1F2;
+    cursor:pointer;
+}
+
+.custom-fab-instagram:hover{
+    color:rgb(117, 26, 53);
+    cursor:pointer;
+}
+
+.custom-fab-linkedin:hover{
+    color:#0E76A8;
+    cursor:pointer;
+}
+.custom-fab-github:hover{
+    color:#ceae22;
+    cursor:pointer;
+}
+.custom-outsystems:hover{
+    cursor:pointer;
+}
+
+.carousel{
+    margin-left:auto;
+    margin-right:auto;
+}
+
+.custom-carousel {
+    max-width: 250px !important;
+}
+
+.carousel .carousel-control-next-icon{
+    background-color: $black !important;
+    border-radius: 25px;
+}
+.carousel .carousel-control-prev-icon{
+    background-color: $black !important;
+    border-radius: 25px;
+}
+
+.carousel-indicators li {
+    background-color: $carousel-indicator-color !important;
+}
+
+.ml-help-style {
+    width: 50% !important;
+    height: 400px !important;
+}
+//modal css
+
+.form-control{
+    color:white !important;
+}
+.overflow-y-scroll {
+    overflow-y: hidden !important;
+}
+.modal-open {
+    overflow: hidden !important;
+}
+.md-form input:not([type]):focus:not([readonly]), .md-form input[type="text"]:not(.browser-default):focus:not([readonly]), .md-form input[type="password"]:not(.browser-default):focus:not([readonly]), .md-form input[type="email"]:not(.browser-default):focus:not([readonly]), .md-form input[type="url"]:not(.browser-default):focus:not([readonly]), .md-form input[type="time"]:not(.browser-default):focus:not([readonly]), .md-form input[type="date"]:not(.browser-default):focus:not([readonly]), .md-form input[type="datetime"]:not(.browser-default):focus:not([readonly]), .md-form input[type="datetime-local"]:not(.browser-default):focus:not([readonly]), 
+.md-form input[type="tel"]:not(.browser-default):focus:not([readonly]), .md-form input[type="number"]:not(.browser-default):focus:not([readonly]), 
+.md-form input[type="search"]:not(.browser-default):focus:not([readonly]), .md-form input[type="phone"]:not(.browser-default):focus:not([readonly]), 
+.md-form input[type="search-md"]:focus:not([readonly]), .md-form textarea.md-textarea:focus:not([readonly])
+{
+    border-right:none !important;
+    border-left:none !important;
+    border-bottom:1px solid $component-color !important;
+    box-shadow: 0 0 0 0 $component-color !important;
+}
+.md-form input:not([type]):focus:not([readonly]) + label, .md-form input[type="text"]:not(.browser-default):focus:not([readonly]) + label, 
+.md-form input[type="password"]:not(.browser-default):focus:not([readonly]) + label, .md-form input[type="email"]:not(.browser-default):focus:not([readonly]) + label, 
+.md-form input[type="url"]:not(.browser-default):focus:not([readonly]) + label, .md-form input[type="time"]:not(.browser-default):focus:not([readonly]) + label, 
+.md-form input[type="date"]:not(.browser-default):focus:not([readonly]) + label, .md-form input[type="datetime"]:not(.browser-default):focus:not([readonly]) + label, 
+.md-form input[type="datetime-local"]:not(.browser-default):focus:not([readonly]) + label, .md-form input[type="tel"]:not(.browser-default):focus:not([readonly]) + label, 
+.md-form input[type="number"]:not(.browser-default):focus:not([readonly]) + label, .md-form input[type="search"]:not(.browser-default):focus:not([readonly]) + label, .md-form input[type="phone"]:not(.browser-default):focus:not([readonly]) + label, 
+.md-form input[type="search-md"]:focus:not([readonly]) + label, .md-form textarea.md-textarea:focus:not([readonly]) + label
+{
+    color:$component-color !important;
+}
+.md-form .prefix.active
+{
+    color:$component-color !important;
+}
+
+.custom-modal-header{
+    color:white;
+    text-align: center;
+}
+
+.modal-dialog .modal-content{
+    background-color:$modal-color;
+    border-radius: 15px;
+}
+.modal-header .close
+{
+    padding:0 !important;
+    padding-right:0.5rem !important;
+    outline: none;
+    color:#FFF;
+}
+.modal-header .close:hover
+{
+    color:$component-color;
+}
+
+//animations
+.w3-animate-opacity{
+    animation:opac 2.0s !important;
+}
+
+.w3-animate-bottom {
+    position: relative;
+    animation: animatebottom 1.0s;
+}
+
+@import "src/assets/scss/media-queries.scss";
